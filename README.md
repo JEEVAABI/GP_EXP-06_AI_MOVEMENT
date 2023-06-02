@@ -66,18 +66,33 @@ To implement AI concept to actor for a random movement .
 
 ### OUTPUT:
 PLAYER MESH
+![a](playermesh.png)
+
+
+
+
+
+
+
 
 AI PLAYER MESH
+![a](aimesh.png)
 
 AI BLACKBOARD FOR KEY CREATION
+![c](BOARD.png)
 
 BEHAVIOR TREE
+![b](BT.png)
 
 BLACKBOARD EVENT GRAPH
+![a](BTSERVICE.png)
 
 GAME NAVMESHBOUNDVOLUME
+![a](PLAYMODE.png)
 
 IN PLAY MODE
+
+![a](AI.png)
 
 
 
